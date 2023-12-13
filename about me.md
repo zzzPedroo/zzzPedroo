@@ -5,4 +5,8 @@
 - LUA
 - *(a bit)* of C#
 
+## Currently:
+- Learning PHP
+
+
 sleepy 💤
