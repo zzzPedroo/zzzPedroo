@@ -1,12 +1,14 @@
 # **Welcome to my profile**
 ## Programming Languages:
-- PHP
-- Python
-- LUA
-- *(a bit)* of C#
+- PHP - Intermediate
+- Python - Intermediate
+- LUA - Intermediate
+- C# - Beginner
+- HTML - Basic
+- CSS - Beginner
 
 ## Currently:
-- Learning PHP
+- Learning CSS
 
 
 sleepy 💤
